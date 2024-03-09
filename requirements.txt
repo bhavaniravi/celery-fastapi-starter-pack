@@ -1,0 +1,6 @@
+celery
+python-dotenv
+redis
+watchdog
+fastapi
+uvicorn
